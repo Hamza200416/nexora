@@ -117,7 +117,7 @@ export default function Contact() {
                   </div>
                   <h3 className="font-display font-bold text-xl">Message sent!</h3>
                   <p className="text-[var(--text-muted)] text-sm">
-                    Thanks for reaching out. We'll be in touch within 24 hours.
+                    Thanks for reaching out. We&apos;ll be in touch within 24 hours.
                   </p>
                 </motion.div>
               ) : (
