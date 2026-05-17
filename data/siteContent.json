@@ -1,0 +1,208 @@
+{
+  "site": {
+    "name": "Nexora",
+    "tagline": "Intelligence. Reimagined.",
+    "description": "Nexora is an AI-native platform that transforms how enterprises operate — from ideation to execution at the speed of thought.",
+    "url": "https://nexora.ai",
+    "logo": "N",
+    "copyrightYear": 2024
+  },
+  "nav": {
+    "links": [
+      { "label": "About",    "href": "#about" },
+      { "label": "Services", "href": "#services" },
+      { "label": "Pricing",  "href": "#pricing" },
+      { "label": "Contact",  "href": "#contact" }
+    ],
+    "cta": { "label": "Get Early Access", "href": "#contact" }
+  },
+  "hero": {
+    "badge": "Now in Public Beta",
+    "headline": ["The Future of", "Intelligent Work"],
+    "subheadline": "Nexora brings autonomous AI agents, deep integrations, and real-time collaboration into a single unified workspace — so your team moves faster than ever before.",
+    "cta_primary":   { "label": "Start Free Trial",  "href": "#contact" },
+    "cta_secondary": { "label": "Watch Demo",        "href": "#about"   },
+    "stats": [
+      { "value": "10×",  "label": "Faster workflows"  },
+      { "value": "98%",  "label": "Uptime SLA"        },
+      { "value": "500+", "label": "Enterprise clients" },
+      { "value": "24/7", "label": "AI assistance"     }
+    ],
+    "ticker": ["Autonomous Agents", "Real-Time Intelligence", "Enterprise Grade", "Zero Hallucinations", "Plug & Play APIs", "SOC 2 Certified", "Global CDN", "Multi-Modal AI"]
+  },
+  "about": {
+    "badge": "Our Mission",
+    "headline": "Built for teams that refuse to slow down",
+    "body": "We started Nexora because we believed enterprise software was broken. Bloated, slow, and disconnected — it was holding brilliant teams back. So we built something different: an AI-first platform where every tool, every workflow, and every decision is supercharged by intelligence.",
+    "pillars": [
+      {
+        "icon": "Zap",
+        "title": "Lightning Fast",
+        "description": "Sub-100ms response times globally with our distributed edge network."
+      },
+      {
+        "icon": "Shield",
+        "title": "Enterprise Security",
+        "description": "SOC 2 Type II certified, end-to-end encrypted, and fully GDPR compliant."
+      },
+      {
+        "icon": "Brain",
+        "title": "Truly Intelligent",
+        "description": "Our models learn your business context and improve with every interaction."
+      },
+      {
+        "icon": "Globe",
+        "title": "Global Scale",
+        "description": "Deployed across 42 regions with 99.98% uptime and automatic failover."
+      }
+    ]
+  },
+  "services": {
+    "badge": "What We Offer",
+    "headline": "Every capability your team needs",
+    "subheadline": "From AI agents that work autonomously to deep analytics that surface hidden insights — Nexora is your complete intelligent operating system.",
+    "items": [
+      {
+        "id": "agents",
+        "icon": "Bot",
+        "tag": "Core",
+        "title": "Autonomous Agents",
+        "description": "Deploy AI agents that execute complex multi-step workflows, respond to triggers, and collaborate with your team in real time.",
+        "features": ["Multi-step task execution", "Trigger-based automation", "Human-in-the-loop controls", "Audit trails & rollback"],
+        "accent": "#0ea5e9"
+      },
+      {
+        "id": "analytics",
+        "icon": "BarChart3",
+        "tag": "Insights",
+        "title": "Predictive Analytics",
+        "description": "Turn raw data into strategic advantage with forecasting models that surface trends before they happen.",
+        "features": ["Real-time dashboards", "Anomaly detection", "Custom KPI tracking", "Natural language queries"],
+        "accent": "#6ee7f7"
+      },
+      {
+        "id": "integrations",
+        "icon": "Plug",
+        "tag": "Connect",
+        "title": "Deep Integrations",
+        "description": "Connect your entire stack in minutes. 200+ pre-built connectors for the tools your team already loves.",
+        "features": ["200+ native connectors", "Webhook builder", "REST & GraphQL APIs", "No-code workflow editor"],
+        "accent": "#38bdf8"
+      },
+      {
+        "id": "collab",
+        "icon": "Users",
+        "tag": "Teamwork",
+        "title": "Real-Time Collaboration",
+        "description": "Work together with your team and AI in shared workspaces with live cursors, comments, and co-editing.",
+        "features": ["Shared AI workspaces", "Live cursor presence", "Threaded comments", "Version history"],
+        "accent": "#7dd3fc"
+      },
+      {
+        "id": "security",
+        "icon": "Lock",
+        "tag": "Enterprise",
+        "title": "Security & Compliance",
+        "description": "Meet the strictest enterprise requirements with granular permissions, SSO, and full data residency control.",
+        "features": ["SSO / SAML 2.0", "Role-based access control", "Data residency options", "SOC 2 & ISO 27001"],
+        "accent": "#0284c7"
+      },
+      {
+        "id": "models",
+        "icon": "Cpu",
+        "tag": "AI Models",
+        "title": "Custom Model Training",
+        "description": "Fine-tune AI models on your proprietary data for domain-specific accuracy that general models can't match.",
+        "features": ["Bring your own data", "Fine-tuning pipelines", "Model evaluation suite", "Private model hosting"],
+        "accent": "#0369a1"
+      }
+    ]
+  },
+  "pricing": {
+    "badge": "Pricing",
+    "headline": "Simple, transparent pricing",
+    "subheadline": "No hidden fees. No surprises. Scale as you grow.",
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "$49",
+        "period": "/month",
+        "description": "Perfect for small teams getting started with AI.",
+        "features": ["5 AI Agents", "10,000 API calls/mo", "3 integrations", "Email support", "Basic analytics"],
+        "cta": "Get Started",
+        "highlighted": false
+      },
+      {
+        "name": "Pro",
+        "price": "$149",
+        "period": "/month",
+        "description": "For growing teams that need more power.",
+        "features": ["Unlimited Agents", "100,000 API calls/mo", "50+ integrations", "Priority support", "Advanced analytics", "Custom workflows", "SSO"],
+        "cta": "Start Free Trial",
+        "highlighted": true,
+        "badge": "Most Popular"
+      },
+      {
+        "name": "Enterprise",
+        "price": "Custom",
+        "period": "",
+        "description": "For organizations that need full control.",
+        "features": ["Everything in Pro", "Unlimited API calls", "All integrations", "Dedicated support", "Custom model training", "SLA guarantee", "On-premise option"],
+        "cta": "Contact Sales",
+        "highlighted": false
+      }
+    ]
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "headline": "Ready to transform your workflow?",
+    "subheadline": "Join 500+ enterprises already running on Nexora. Let's talk about what we can build together.",
+    "email": "hello@nexora.ai",
+    "phone": "+1 (800) NEX-ORA1",
+    "address": "548 Market St, San Francisco, CA 94105",
+    "social": [
+      { "platform": "Twitter",  "url": "https://twitter.com/nexoraai",  "icon": "Twitter"  },
+      { "platform": "LinkedIn", "url": "https://linkedin.com/nexoraai", "icon": "Linkedin" },
+      { "platform": "GitHub",   "url": "https://github.com/nexoraai",   "icon": "Github"   }
+    ],
+    "form": {
+      "namePlaceholder":    "Your full name",
+      "emailPlaceholder":   "your@company.com",
+      "companyPlaceholder": "Company name",
+      "messagePlaceholder": "Tell us about your use case...",
+      "submitLabel":        "Send Message"
+    }
+  },
+  "footer": {
+    "tagline": "Intelligence. Reimagined.",
+    "columns": [
+      {
+        "heading": "Product",
+        "links": [
+          { "label": "Features",    "href": "#services" },
+          { "label": "Pricing",     "href": "#pricing"  },
+          { "label": "Changelog",   "href": "#"         },
+          { "label": "Roadmap",     "href": "#"         }
+        ]
+      },
+      {
+        "heading": "Company",
+        "links": [
+          { "label": "About",    "href": "#about"   },
+          { "label": "Blog",     "href": "#"        },
+          { "label": "Careers",  "href": "#"        },
+          { "label": "Press",    "href": "#"        }
+        ]
+      },
+      {
+        "heading": "Legal",
+        "links": [
+          { "label": "Privacy Policy",    "href": "#" },
+          { "label": "Terms of Service",  "href": "#" },
+          { "label": "Cookie Policy",     "href": "#" },
+          { "label": "Security",          "href": "#" }
+        ]
+      }
+    ]
+  }
+}
